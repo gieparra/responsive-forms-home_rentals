@@ -1,2 +1,2 @@
-# responsive-forms-home_rentals
+# responsive-forms-house-rentals
 Responsive forms with CSS style
